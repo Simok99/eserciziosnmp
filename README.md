@@ -1,9 +1,11 @@
-#Esercizio Gestione Di Reti 2021
+# Esercizio Gestione Di Reti 2021
 
 Authors (gruppo 10):
 
 Simone Concu (s.concu@studenti.unipi.it)
+
 Francesco Gallicchio (f.gallicchio1@studenti.unipi.it)
+
 Mirko Franchi (m.franchi16@studenti.unipi.it)
 
 Il file pkts.sh contiene lo script da eseguire.
