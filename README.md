@@ -26,6 +26,7 @@ COMPATIBILITY
 	In caso si faccia uso del sistema operativo Windows, decommentare la riga (a inizio dello script) che setta il font per la stampa nel grafico.
 
 EXAMPLES
+	
 	./pkts.sh en0 -s 10 -r 60
 	Legge ogni 10 secondi per 60 volte i valori.
 
